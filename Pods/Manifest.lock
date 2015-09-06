@@ -1,0 +1,13 @@
+PODS:
+  - ActionSheetPicker (1.6.2)
+  - JSONKit-NoWarning (1.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker
+  - JSONKit-NoWarning (~> 1.2)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker: cc5255a36aabaf34245b97a478059d26bac8cd84
+  JSONKit-NoWarning: 3d27e6f9e6846ecf741e8c64dcadd7d5aa7193cb
+
+COCOAPODS: 0.36.3
